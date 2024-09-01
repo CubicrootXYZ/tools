@@ -10,12 +10,17 @@
 - AIO Solutions
   - [wazuh](https://github.com/wazuh/wazuh)
  
-## Monitoring & Alerting
+## Monitoring, Telemetry & Alerting
 
 - Visualization
   - [Grafana](https://github.com/grafana/grafana)
   - [OpenSearch](https://github.com/opensearch-project/OpenSearch)
-- Metrics
+- Metrics/Collecting
   - [Prometheus](https://github.com/prometheus/prometheus)
+  - [Sentry](https://sentry.io/welcome/)
 - Alerting
-  - [Alert Manager](https://github.com/prometheus/alertmanager)     
+  - [Alert Manager](https://github.com/prometheus/alertmanager)
+- Telemetry
+  - [Opentelemetry](https://opentelemetry.io/) 
+- Database Monitoring
+  - [PG Hero](https://github.com/ankane/pghero)
