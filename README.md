@@ -24,3 +24,12 @@
   - [Opentelemetry](https://opentelemetry.io/) 
 - Database Monitoring
   - [PG Hero](https://github.com/ankane/pghero)
+ 
+## Authentikation & Proxies
+
+- Authentikation Solutions
+  - [Authentik](https://goauthentik.io/)
+  - [Authelia](https://www.authelia.com/)
+- Proxies
+  - [Traefik](https://traefik.io/traefik/)
+  - [Nginx Proxy Manager](https://nginxproxymanager.com/)
