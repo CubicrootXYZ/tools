@@ -2,6 +2,8 @@
 
 ## Security
 
+### Blue-Teaming
+
 - Intrusion Detection
   - Host Intrusion Detection
     - [OSSEC](https://github.com/ossec/ossec-hids)
@@ -9,6 +11,11 @@
     - [suricata](https://github.com/OISF/suricata)
 - AIO Solutions
   - [wazuh](https://github.com/wazuh/wazuh)
+ 
+### Red-Teaming
+
+- OSINT
+  - Maltego
  
 ## Monitoring, Telemetry & Alerting
 
