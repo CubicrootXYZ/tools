@@ -31,6 +31,8 @@
   - [Opentelemetry](https://opentelemetry.io/) 
 - Database Monitoring
   - [PG Hero](https://github.com/ankane/pghero)
+- Misc
+  - [Netdata](https://www.netdata.cloud/)
  
 ## Authentikation & Proxies
 
