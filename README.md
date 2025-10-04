@@ -7,15 +7,44 @@
 - Intrusion Detection
   - Host Intrusion Detection
     - [OSSEC](https://github.com/ossec/ossec-hids)
+    - [AIDE](https://github.com/aide/aide)
   - Network Intrusion Detection 
     - [suricata](https://github.com/OISF/suricata)
 - AIO Solutions
   - [wazuh](https://github.com/wazuh/wazuh)
+  - [OPENVAS](https://www.openvas.org)
+  - [DevGuard](https://devguard.org/)
+- Cloud Scanning
+  - Kubeaudit
+  - Terrascan
+- Source Code
+  - Sonarcube
+  - Snyk
+  - Veracode
+  - Github Vulnerability Platform
+  - Trufflehog
+  - gitleaks 
+- Container Scanning
+  - Grype
+  - Trivy
+- Database Scanners
+  - MySQL Vulernability Scanner
+  - Oracle Database Security Assessment Tool
+- Misc Scanners
+  - ssltest.sh
+  - Hydra
+- Vuln Management
+  - DefectDojo 
  
 ### Red-Teaming
 
 - OSINT
   - Maltego
+- Scanning/Port probing
+  - nmap
+  - zmap
+- Knowledge Databases
+  - [shodan](https://www.shodan.io/)   
  
 ## Monitoring, Telemetry & Alerting
 
@@ -42,3 +71,8 @@
 - Proxies
   - [Traefik](https://traefik.io/traefik/)
   - [Nginx Proxy Manager](https://nginxproxymanager.com/)
+
+## Network
+
+- Scanning/Port probing
+  - nmap
